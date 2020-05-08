@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PublishChromeDriver>true</PublishChromeDriver>
     <RootNamespace>Test_selinum</RootNamespace>
     <ApplicationIcon />
     <StartupObject />
